@@ -50,6 +50,6 @@ reset:
 
 end:
 
-	mov     esp, ebp            ; remove the stack frame
-    	pop     ebp                 ; remove the stack frame
-	ret			    ; return to calling c program
+	mov     esp, ebp            			; remove the stack frame
+    	pop     ebp                 			; remove the stack frame
+	ret			    			; return to calling c program
