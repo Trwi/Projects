@@ -3,4 +3,6 @@ This is a collection of projects I have worked on since beginning my programming
 
 I included the monalisa.bmp file if you want to run the steganography programs.
 
+A few of my earlier Python projects from a Udemy course can be found at https://replit.com/@TroW7
+
 Please reach out if you have any questions, or you want me to write a specific program for consideration.
